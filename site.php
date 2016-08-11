@@ -1,7 +1,7 @@
 <?php
 /**
  * 助学众筹模块微站定义
- *
+ *测试模块
  * @author BoomNice
  * @url http://bbs.we7.cc/
  */
